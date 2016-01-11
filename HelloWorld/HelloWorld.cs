@@ -6,10 +6,15 @@ using System.Threading.Tasks;
 
 namespace HelloWorld
 {
-    class Program
+    /**
+     * Author: Cody Miller
+     * 
+     **/
+    class HelloWorld
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello, World!");
         }
     }
 }
