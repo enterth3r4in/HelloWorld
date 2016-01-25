@@ -4,3 +4,6 @@ C:\Users\as600\Documents\GitHub\CSharpHW1-11-16\HelloWorld\HelloWorld\bin\Debug\
 C:\Users\as600\Documents\GitHub\CSharpHW1-11-16\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
 C:\Users\as600\Documents\GitHub\CSharpHW1-11-16\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
 C:\Users\as600\Documents\GitHub\CSharpHW1-11-16\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\as600\Documents\GitHub\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\as600\Documents\GitHub\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\as600\Documents\GitHub\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
